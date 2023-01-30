@@ -1,29 +1,6 @@
 # Retro Game
 
-O que foi trabalhado?
-
-* Exemplo 1
-* Exemplo 2
-* Exemplo 3
-* Exemplo 4
-
-### Opiniões
-
-* O que eu achei mais interessante?
-* O que eu não gostei?
-* O que eu descobri sobre no meio do caminho?
-* O que eu não to gostando do produto?
-* O que eu acho que está faltando o time melhorar?
-* O que eu acho que está atrapalhando o time de entregar?
-
-### Comandos
-
-* Pergunte para um colega sobre a tecnologia que ele trabalhou.
-* Pergunte para um colega quem foi que mais lhe ajudou nessa sprint.
-* Pergunte para um colega se tem algo lhe atrapalhou na sprint.
-* Pergunte para um colega se tem algo que pode ser melhorado.
-
-### Regras
+## Regras
 
 * Antes do jogo, o grupo vai escrever de forma ampla uma lista das entregas que fizeram na sprint.
 * Todos jogam 1d20 para definir a iniciativa.
@@ -38,8 +15,36 @@ O que foi trabalhado?
 
 Na vez de cada jogador, o jogador vai jogar 1d6 e andar de acordo com o resultado.
 
+### O que foi trabalhado? (exemplos)
+
+* Foi entregue a tela X
+* Foi entregue uma rota de api Y
+* Foi desenvolvido um componente W
+* Está sendo trabalhado na migração de uma tabela
+
+### Cards de Opiniões
+
+* O que eu achei mais interessante?
+* O que eu não gostei?
+* O que eu descobri sobre no meio do caminho?
+* O que eu não to gostando do produto?
+* O que eu acho que está faltando o time melhorar?
+* O que eu acho que está atrapalhando o time de entregar?
+
+### Cards de Comandos
+
+* Pergunte para um colega sobre a tecnologia que ele trabalhou.
+* Pergunte para um colega quem foi que mais lhe ajudou nessa sprint.
+* Pergunte para um colega se tem algo lhe atrapalhou na sprint.
+* Pergunte para um colega se tem algo que pode ser melhorado.
+
 ### Tabuleiro
+```
+= - casas
+* - chegada
+L - largada
 
-20 casas
-
-
+  = = = = = = = = = = = = *
+L = = = = = = =
+  = = = = = = = = = = = = *
+```
