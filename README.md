@@ -28,8 +28,8 @@ O que foi trabalhado?
 * Antes do jogo, o grupo vai escrever de forma ampla uma lista das entregas que fizeram na sprint.
 * Todos jogam 1d20 para definir a iniciativa.
 * Na rodada, em ordem, o jogador joga 1d6 pra definir quantos passos vai andar.
-* No tabuleiro existem 2 casas especiais, uma pra opiniões e outra pra comandos.
-* O primeiro jogador a chegar numa dessas casas, vai poder escolher entre os cards que tem nela. Depois de escolhido aquele card, o card é descartado, não podendo usar.
+* No tabuleiro existem 2 casas especiais, uma pra opiniões e outra pra comandos. Cada uma delas estarão posicionadas nas extremidades opostas do tabuleiro.
+* O primeiro jogador a chegar numa dessas casas, vai poder escolher entre os cards que tem nela. Cada card só pode ser usado uma vez pra um jogador.
 * Na casa das opiniões o jogador vai dar sua opinião sobre o card que escolheu.
 * Na casa dos comandos, o jogador vai pedir pra outro colega responder ou falar sobre o card que escolheu.
 * O último jogador a não chegar em uma casa especial vai ser movido automaticamente para uma das casas que preferir.
