@@ -48,3 +48,7 @@ L - largada
 L = = = = = = =
   = = = = = = = = = = = = *
 ```
+
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/894329/218547086-647cfb3e-8253-4376-a781-9486b931b570.png">
+
+<img width="1045" alt="image" src="https://user-images.githubusercontent.com/894329/218547550-40f57cc9-2794-4f84-8dcd-d485c20bdf21.png">
