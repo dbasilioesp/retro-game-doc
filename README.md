@@ -31,7 +31,7 @@ Na vez de cada jogador, o jogador vai jogar 1d6 e andar de acordo com o resultad
 * O que eu acho que está faltando o time melhorar?
 * O que eu acho que está atrapalhando o time de entregar?
 
-### Cards de Comandos
+### Cards de Questionário
 
 * Pergunte para um colega sobre a tecnologia que ele trabalhou.
 * Pergunte para um colega quem foi que mais lhe ajudou nessa sprint.
