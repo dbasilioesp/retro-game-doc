@@ -2,14 +2,6 @@
 
 ## Conceituação
 
-Crítica é uma opinião. É uma forma de um opinião que pode ser aceita ou não, e que pode ser trabalhada pra se desenvolver.
-
-Designa a ação de ‘distinguir’, ‘marcar’, ‘julgar’, ‘avaliar’, entendida como uma capacidade que pode ser cultivada com esforço ao longo do tempo.
-
-Muitas vezes, no discurso cotidiano, a ideia de pensamento crítico é utilizada para designar uma forma de pensar reflexiva, orientada para a construção das próprias opiniões, por oposição à repetição automatizada das opiniões dos outros ou do senso comum.
-
-https://conceitos.com/critica/
-
 Criticar é dar a sua opinião sobre o trabalho e o comportamento ou a ação dos outros.
 
 Aceitar a crítica, donde quer que ela venha, como uma contribuição para melhorar o trabalho, como uma manifestação de interesse ativo pela vida interna da nossa organização.
@@ -22,9 +14,9 @@ https://www.marxists.org/portugues/cabral/ano/mes/93.htm
 
 ## Dinâmica da Retro
 
-Cada um vai trazer pra reunião pelo menos uma auto-critia e uma critica do trabalho. 
+Cada um vai trazer pra reunião pelo menos uma auto-crítica e uma critica do trabalho. 
 
-Mas também caso alguém precise, 5min pra formulá-las.
+Mas também caso alguém precise, 8min pra formulá-las.
 
 Caso haja tempo e espaço pra mais criticas, é possível anunciar após todos se pronunciarem.
 
