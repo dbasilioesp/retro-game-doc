@@ -2,7 +2,7 @@
 
 ## Conceituação
 
-Críticas são opiniões, e não verdades, logo dar sua crítica é uma forma de dar um opinião que pode ser aceita ou não, e que pode ser trabalhada pra se desenvolver.
+Crítica é uma opinião. É uma forma de um opinião que pode ser aceita ou não, e que pode ser trabalhada pra se desenvolver.
 
 Designa a ação de ‘distinguir’, ‘marcar’, ‘julgar’, ‘avaliar’, entendida como uma capacidade que pode ser cultivada com esforço ao longo do tempo.
 
@@ -23,13 +23,20 @@ https://www.marxists.org/portugues/cabral/ano/mes/93.htm
 ## Dinâmica da Retro
 
 Cada um vai trazer pra reunião pelo menos uma auto-critia e uma critica do trabalho. 
-Caso haja tempo e espaço pra mais criticas, poder anunciar após todos se pronunciarem.
+
+Mas também caso alguém precise, 5min pra formulá-las.
+
+Caso haja tempo e espaço pra mais criticas, é possível anunciar após todos se pronunciarem.
+
+Após a leitura de uma crítica, é possível debater sobre ela se for de interesse dos outros, sempre visando evoluir a questão e assim melhorar o trabalho.
 
 ### Auto-crítica
-1. O colega deve se fazer uma auto-critica sobre seu trabalho.
+
+O colega deve se fazer uma auto-critica sobre seu trabalho.
 
 ### Criticas
-O colega deve escolher uma ou mais das formas e fazer uma crítica:
+
+O colega deve escolher uma ou mais das seguintes formas:
 
 1. Fazer uma critica pra melhoria do trabalho.
 2. Fazer uma critica sobre um comportamento.
